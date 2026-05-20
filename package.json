@@ -1,6 +1,6 @@
 {
   "name": "universal-virtual-scroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight and framework-agnostic virtual scrolling library.",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
