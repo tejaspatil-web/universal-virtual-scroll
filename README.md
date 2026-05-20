@@ -1,5 +1,12 @@
 # universal-virtual-scroll
 
+![npm](https://img.shields.io/npm/v/universal-virtual-scroll)
+![downloads](https://img.shields.io/npm/dw/universal-virtual-scroll)
+![license](https://img.shields.io/npm/l/universal-virtual-scroll)
+![bundle size](https://img.shields.io/bundlephobia/min/universal-virtual-scroll)
+![typescript](https://img.shields.io/badge/TypeScript-Ready-blue)
+![framework](https://img.shields.io/badge/framework-agnostic-green)
+
 A lightweight and framework-agnostic virtual scrolling library for efficiently rendering large lists and grids with smooth performance.
 
 ---
