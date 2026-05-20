@@ -1,13 +1,15 @@
 {
   "name": "universal-virtual-scroll",
   "version": "1.0.0",
-  "description": "Framework agnostic virtual scroll library",
-  "main": "dist/index.js",
+  "description": "A lightweight and framework-agnostic virtual scrolling library.",
+  "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
@@ -16,12 +18,24 @@
   "keywords": [
     "virtual-scroll",
     "virtualization",
+    "infinite-scroll",
     "performance",
     "angular",
-    "react"
+    "react",
+    "nextjs",
+    "typescript",
+    "scrolling"
   ],
   "author": "Tejas Patil",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejaspatil-web/universal-virtual-scroll.git"
+  },
+  "homepage": "https://github.com/tejaspatil-web/universal-virtual-scroll#readme",
+  "bugs": {
+    "url": "https://github.com/tejaspatil-web/universal-virtual-scroll/issues"
+  },
   "devDependencies": {
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
